@@ -90,4 +90,5 @@ The following table outlines all command-line tools and utilities deployed durin
 ### **Author & Reference Information**
 - **Author:** Rushna Imran (Intern ID: `NW-084-318`)
 - **LinkedIn Profile:** [https://www.linkedin.com/in/rushna-imran-3338303b6/)
-- **Google Docs Report:** [file:///C:/Users/USER/Downloads/W2-PM-FINAL%20-%20Network%20Footprinting%20&%20Scanning%20Report.pdf)
+- **Google Docs Report:** [[W2-PM-FINAL - Network Footprinting & Scanning Report.pdf](https://github.com/user-attachments/files/34606631/W2-PM-FINAL.-.Network.Footprinting.Scanning.Report.pdf)
+)
